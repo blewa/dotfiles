@@ -1,0 +1,5 @@
+#!/bin/bash
+#export AWT_TOOLKIT=MToolkit
+export PATH="/usr/java/jdk1.6.0_45/bin:$PATH"
+wmname LG3D
+~/Apps/visualvm_135/bin/visualvm
